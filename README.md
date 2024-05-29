@@ -1,5 +1,5 @@
 # Agricultural-product-price-prediction
-LSTM모델에 shap value도구를 결합한 모델을 만들어 5대 농산물의 가격을 예측하는 프로젝트 입니다.  
+5대 농산물의 가격을 예측하는 프로젝트 입니다.  
 5대 농산물 : 배추, 양파, 마늘, 무, 고추  
   
 ## 1. 데이터 수집
