@@ -7,7 +7,7 @@
 
 ![데이터정리](https://github.com/Ryan0hwan/Agricultural-product-price-prediction/assets/158720833/cec365ac-c1c4-4834-9a56-d1e51384a5e2)  
 
-* 12개의 독립변수로 1개의 종속변수(소매가)예측.
+* 11개의 독립변수로 1개의 종속변수(소매가)예측.
 
 ![데이터예시](https://github.com/Ryan0hwan/Agricultural-product-price-prediction/assets/158720833/7381fe57-50a8-4f12-997c-4d16892e62b0)  
 
