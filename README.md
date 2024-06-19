@@ -1,4 +1,4 @@
-![image](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/eee92793-eaf9-48ad-b461-3d9cf0ac6b4e)# Compare_RNN_LSTM_GRU
+# Compare_RNN_LSTM_GRU
 RNN, LSTM, GRU 중 어떤 인공신경망 모델이 농산물 가격을 가장 잘 예측하는지를 비교하는 프로젝트입니다. 
 농산물 : 배추, 양파, 마늘, 무, 고추(5대 농산물)  
   
