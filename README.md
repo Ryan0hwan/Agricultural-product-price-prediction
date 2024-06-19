@@ -22,15 +22,15 @@ RNN, LSTM, GRU 중 어떤 인공신경망 모델이 농산물 가격을 가장 �
 ![parameter](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/c122686a-6720-4e22-b028-bd1a7c03d7da)
 
 ## 4. 결과 해석
-![1](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/8d01f6ca-6814-4bc6-9f3c-e28cf29cd232)
-![2](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/11cb354e-41e3-4971-ad69-e43db1ed3e34)
-![3](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/cffd7d2a-ed40-4b8c-a387-756a1beb8413)   
+![1](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/8d01f6ca-6814-4bc6-9f3c-e28cf29cd232)   
+![2](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/11cb354e-41e3-4971-ad69-e43db1ed3e34)   
+![3](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/cffd7d2a-ed40-4b8c-a387-756a1beb8413)      
 
-![결과](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/71d68e04-0a3c-4770-91f3-fd53eea4e9a6)
-![모델 성능순위](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/6bb29a04-1373-49e1-aa1c-94ce459f8c46)
-![모델성능](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/192b1d05-0188-4e19-8afe-df42c89262f9)
+![결과](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/71d68e04-0a3c-4770-91f3-fd53eea4e9a6)   
+![모델 성능순위](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/6bb29a04-1373-49e1-aa1c-94ce459f8c46)   
+![모델성능](https://github.com/Ryan0hwan/Compare_RNN_LSTM_GRU/assets/158720833/192b1d05-0188-4e19-8afe-df42c89262f9)   
 
-* 결과 : LSTM > RNN > GRU 순으로 성능이 좋게 나온다.
+* 결과 : LSTM > RNN > GRU 순으로 성능이 좋게 나온다.   
 
 ## 5. 한계점
 * LSTM모델을 통해, 가격 예측까지는 가능한 것으로 보이나, LSTM모델 자체의 한계로 어떤 변수가 가장 큰 영향을 끼치는지는 알 수 없음.
